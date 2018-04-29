@@ -22,10 +22,10 @@ content matching reviews of the users.
 10) To deactivate an active environment, use: deactivate
 
 # Following libraries need to installed by running the given code in anaconda prompt:
-python -m pip install wordcloud
-pip install -U nltk
-pip3 install --upgrade colorama
-pip install h2o
-pip install -U imbalanced-learn
-pip install -U gensim
-pip install scikit-surprise
+1) python -m pip install wordcloud
+2) pip install -U nltk
+3) pip3 install --upgrade colorama
+4) pip install h2o
+5) pip install -U imbalanced-learn
+6) pip install -U gensim
+7) pip install scikit-surprise
