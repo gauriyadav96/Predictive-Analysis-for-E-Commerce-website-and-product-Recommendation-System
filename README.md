@@ -2,6 +2,7 @@
 
 
 * A master csv by the name "Replaced.csv" is provided which contains the initial dataset on which this project is based.
+  (Download the CSV files from https://drive.google.com/open?id=1EOsLs2U60tZ3lKCmZOG6CHC3-GEtR5R2)
 * For building a recommendation system, we use different set of algorithms for getting the results such as product recommendation and 
 content matching reviews of the users.
 * All the files are in .py format and need to be executed using Jupyter Notebook
